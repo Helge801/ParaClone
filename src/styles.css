@@ -60,12 +60,22 @@
 }
 
 /*Caller page end*/
+/*latest page start*/
 .latest_page {
   background-color: white;
 }
 
+.blue_dash {
+  width: 45px !important;
+  height: 3px;
+  background-color: #1669c7;
+}
 
+.latest_content:nth-of-type(1) {
+  color: blue;
+}
 
+/*latest page end*/
 .workout_page {
   background-image: url('https://picsum.photos/2000/1500');
   background-repeat: no-repeat;
@@ -107,3 +117,9 @@
 .tall_boy {
   height: 100%;
 }
+
+.centerize {
+  margin: auto;
+  width: fit-content;
+}
+
