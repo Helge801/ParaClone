@@ -1,0 +1,11 @@
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\bin\Any CPU\Release\netcoreapp1.1\ParaClone.deps.json
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\bin\Any CPU\Release\netcoreapp1.1\ParaClone.runtimeconfig.json
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\bin\Any CPU\Release\netcoreapp1.1\ParaClone.runtimeconfig.dev.json
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\bin\Any CPU\Release\netcoreapp1.1\ParaClone.dll
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\bin\Any CPU\Release\netcoreapp1.1\ParaClone.pdb
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.csprojResolveAssemblyReference.cache
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.csproj.CoreCompileInputs.cache
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.AssemblyInfoInputs.cache
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.AssemblyInfo.cs
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.dll
+C:\Users\Helge801\source\repos\ParaClone\ParaClone\obj\Any CPU\Release\netcoreapp1.1\ParaClone.pdb
