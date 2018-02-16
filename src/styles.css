@@ -11,6 +11,11 @@
   border: dashed 2px purple;
 }
 
+iframe {
+  width: 100%;
+  height: 100%;
+}
+
 .showme3 {
   background-color: yellow;
   border: dashed 2px brown;
